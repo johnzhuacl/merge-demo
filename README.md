@@ -10,6 +10,9 @@ This is from 1st commit on branch-2
 ### Steps.
 - Pull the most recent versions of the target rebase branch.
 - Perform the following command: 
+
+This is from 2nd commit on branch-2
+
 ```
 git revbase -i <target branch>
 ```
